@@ -64,9 +64,9 @@ export default function Home() {
       <section id="about" className="bg-slate-100 py-20 px-4">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row gap-12 items-center">
           <div className="md:w-1/2 w-full">
-            <div className="w-full aspect-square bg-slate-300 rounded-2xl shadow-inner flex items-center justify-center text-slate-500">
-              [<img src="/profile.png" alt="Dr. Ahmad Azzam Portrait" className="object-cover w-full h-full rounded-2xl" />>]
-            </div>
+            <div className="w-full aspect-square bg-slate-300 rounded-2xl shadow-inner flex items-center justify-center">
+  <img src="/profile.png" alt="Dr. Ahmad Azzam Portrait" className="object-cover w-full h-full rounded-2xl" />
+</div>
           </div>
           <div className="md:w-1/2">
             <h2 className="text-3xl font-bold text-slate-900 mb-6">About Dr. Azzam</h2>
