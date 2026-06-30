@@ -106,7 +106,7 @@ export default function Home() {
               <div className="flex items-start gap-4">
                 <MapPin className="text-blue-400 mt-1 flex-shrink-0 w-6 h-6" />
                 <div>
-                  <h4 className="font-bold text-xl mb-1">Giza / Al-Haram</h4>
+                  <h4 className="font-bold text-xl mb-1">40 Mosaddak Street / Dokkis</h4>
                   <p className="text-blue-200">Main branch servicing the Giza governorate.</p>
                 </div>
               </div>
