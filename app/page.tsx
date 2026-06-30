@@ -124,7 +124,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="text-sm text-slate-500 font-medium">For Appointments</p>
-                  <p className="font-bold text-xl">+20 (0) 123 456 7890</p>
+                  <p className="font-bold text-xl">+20 1004532533 / +20 1005830888</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
