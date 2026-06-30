@@ -111,10 +111,6 @@ export default function Home() {
                 </div>
               </div>
               
-              </div>
-              
-            </div>
-          </div>
           <div className="md:w-1/2 bg-white rounded-2xl p-8 md:p-10 text-slate-900">
             <h3 className="text-2xl font-bold mb-6">Contact & Booking</h3>
             <div className="space-y-6 mb-10">
