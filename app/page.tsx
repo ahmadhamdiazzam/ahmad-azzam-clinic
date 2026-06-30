@@ -110,20 +110,9 @@ export default function Home() {
                   <p className="text-blue-200">Main branch servicing the Giza governorate.</p>
                 </div>
               </div>
-              <div className="flex items-start gap-4">
-                <MapPin className="text-blue-400 mt-1 flex-shrink-0 w-6 h-6" />
-                <div>
-                  <h4 className="font-bold text-xl mb-1">6th of October City</h4>
-                  <p className="text-blue-200">Modern orthopedic facility serving October residents.</p>
-                </div>
+              
               </div>
-              <div className="flex items-start gap-4">
-                <MapPin className="text-blue-400 mt-1 flex-shrink-0 w-6 h-6" />
-                <div>
-                  <h4 className="font-bold text-xl mb-1">Sheikh Zayed</h4>
-                  <p className="text-blue-200">Premium care center in Sheikh Zayed City.</p>
-                </div>
-              </div>
+              
             </div>
           </div>
           <div className="md:w-1/2 bg-white rounded-2xl p-8 md:p-10 text-slate-900">
