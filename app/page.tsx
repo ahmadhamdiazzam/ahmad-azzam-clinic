@@ -65,7 +65,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row gap-12 items-center">
           <div className="md:w-1/2 w-full">
             <div className="w-full aspect-square bg-slate-300 rounded-2xl shadow-inner flex items-center justify-center text-slate-500">
-              [Insert Professional Portrait Here]
+              [<img src="/profile.png" alt="Dr. Ahmad Azzam Portrait" className="object-cover w-full h-full rounded-2xl" />>]
             </div>
           </div>
           <div className="md:w-1/2">
